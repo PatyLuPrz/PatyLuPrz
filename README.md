@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Patricia
-#### I am a software developer and occasional streamer
-I am an information and communication technology engineering student who seeks to enter the workplace as a software developer, where I can apply my knowledge and skills for continuous improvement. I have extensive experience in the development of IT projects, creating strategies and using technologies that bring a quality product to the end user.
+### Wellcome to my Github profile
+
+<img src="https://raw.githubusercontent.com/PatyLuPrz/PatyLuPrz/main/banner.png" alt="Banner that says Hello There, I am Patricia. I'm a software developer and occasional streamer.">
+
+I am an information and communication technology engineer who only seeks to be happy. I'm trying my best and nothing can stop me
 
 Skills: PYTHON / JAVA / PHP / HTML / CSS / VIDEO GAMES / EAT
 
@@ -11,10 +13,10 @@ Skills: PYTHON / JAVA / PHP / HTML / CSS / VIDEO GAMES / EAT
 - 📫 How to reach me: may.patrics@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PatyLuPrz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/paty.przmtz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/patty.was.here/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PatyLuPrz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](turispot.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](twitch.tv/pattywashere)  
+[<img src='https://img.shields.io/badge/-Github-9979C1?style=for-the-badge&logo=github' alt='github' height='40'>](https://github.com/PatyLuPrz)  [<img src='https://img.shields.io/badge/-Facebook-C3D6F2?style=for-the-badge&logo=facebook' alt='facebook' height='20'>](https://www.facebook.com/paty.przmtz)  [<img src='https://img.shields.io/badge/-Instagram-FEE5EB?style=for-the-badge&logo=instagram' alt='instagram' height='20'>](https://www.instagram.com/patty.was.here/)  [<img src='https://img.shields.io/badge/-Twitter-D1EAF5?style=for-the-badge&logo=twitter' alt='twitter' height='20'>](https://twitter.com/PatyLuPrz)  [<img src='https://img.shields.io/badge/-Twitch-DCCBED?style=for-the-badge&logo=twitch' alt='twitch' height='20'>](twitch.tv/pattywashere)  [<img src='https://img.shields.io/badge/-WebSite-orange?style=for-the-badge' alt='website' height='20'>](turispot.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatyLuPrz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatyLuPrz&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/PatyLuPrz)  
+![Counter](https://komarev.com/ghpvc/?username=PatyLuPrz)
